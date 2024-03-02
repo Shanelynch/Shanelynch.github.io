@@ -1,6 +1,12 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: [],
+  content: 
+  [
+    '/Users/shanelynch/Documents/GitHub/Shanelynch.github.io/index.html',
+    '/Users/shanelynch/Documents/GitHub/Shanelynch.github.io/portfolio.html',
+    '/Users/shanelynch/Documents/GitHub/Shanelynch.github.io/about.html'
+
+  ],
   presets: [],
   darkMode: 'media', // or 'class'
   theme: {
